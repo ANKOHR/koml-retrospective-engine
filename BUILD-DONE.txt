@@ -1,0 +1,5 @@
+Tests: 27 passed (python -m pytest -q).
+Local implementation commit: 78368d2445066f76192d43240db972f92c8d7b74
+Measured synthetic demo: 0.506 seconds; standalone report: 0.158 seconds.
+
+Built a CPU-only, dependency-free Python CLI with fixture generation, validation, triage, deterministic mission postmortems, atomic state and report writes, and Markdown/JSON provenance banners. The 200-record labelled synthetic fixture reconciles exact costs, durations, trigger counts and significant IDs against hand-computed expectations; adversarial and corrupted-ground-truth tests verify behavior. Included a five-record example, full input and failure documentation, measured local evidence, lessons, and the two-week real-use improvement hook. Operational verdict remains pending real evidence. No publishing performed. This hash identifies the implementation commit; a subsequent documentation commit records this completion file.
