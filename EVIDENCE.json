@@ -1,0 +1,28 @@
+{
+  "synthetic": true,
+  "provenance": "Local synthetic fixture acceptance only; real usage unmeasured",
+  "missions": 200,
+  "end_to_end_seconds_measured": 0.506068900001992,
+  "report_seconds_measured": 0.15756490000057966,
+  "method": "perf_counter wall time of fresh Python CLI processes, including startup",
+  "commands": [
+    [
+      "fixtures",
+      "--out",
+      "demo"
+    ],
+    [
+      "run",
+      "--input",
+      "demo"
+    ],
+    [
+      "report",
+      "--format",
+      "md"
+    ]
+  ],
+  "expected_significant": 60,
+  "expected_cost_pence": 20000,
+  "expected_duration_minutes": 14400
+}

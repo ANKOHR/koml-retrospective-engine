@@ -1,0 +1,71 @@
+{
+  "synthetic": true,
+  "as_of": "2026-09-30",
+  "records": [
+    {
+      "id": "tiny-1",
+      "synthetic": true,
+      "completed_on": "2026-09-30",
+      "status": "failed",
+      "cost_pence": 100,
+      "budget_pence": 100,
+      "duration_minutes": 60,
+      "planned_minutes": 120,
+      "summary": "Synthetic hand-written example",
+      "lesson": "Synthetic operator lesson",
+      "action": "Synthetic review action"
+    },
+    {
+      "id": "tiny-2",
+      "synthetic": true,
+      "completed_on": "2026-09-30",
+      "status": "succeeded",
+      "cost_pence": 150,
+      "budget_pence": 100,
+      "duration_minutes": 60,
+      "planned_minutes": 120,
+      "summary": "Synthetic hand-written example",
+      "lesson": "Synthetic operator lesson",
+      "action": "Synthetic review action"
+    },
+    {
+      "id": "tiny-3",
+      "synthetic": true,
+      "completed_on": "2026-09-30",
+      "status": "succeeded",
+      "cost_pence": 100,
+      "budget_pence": 100,
+      "duration_minutes": 180,
+      "planned_minutes": 120,
+      "summary": "Synthetic hand-written example",
+      "lesson": "Synthetic operator lesson",
+      "action": "Synthetic review action"
+    },
+    {
+      "id": "tiny-4",
+      "synthetic": true,
+      "completed_on": "2026-09-30",
+      "status": "succeeded",
+      "cost_pence": 100,
+      "budget_pence": 100,
+      "duration_minutes": 60,
+      "planned_minutes": 120,
+      "summary": "Synthetic hand-written example",
+      "lesson": "Synthetic operator lesson",
+      "action": "Synthetic review action"
+    },
+    {
+      "id": "tiny-5",
+      "synthetic": true,
+      "completed_on": "2026-09-30",
+      "status": "succeeded",
+      "cost_pence": 100,
+      "budget_pence": 100,
+      "duration_minutes": 60,
+      "planned_minutes": 120,
+      "summary": "Synthetic hand-written example",
+      "lesson": "Synthetic operator lesson",
+      "action": "Synthetic review action"
+    }
+  ]
+}
